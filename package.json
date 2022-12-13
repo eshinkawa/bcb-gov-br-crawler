@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "jsdom": "^16.2.2",
     "json-2-csv": "^3.7.1",
     "json2xls": "^0.1.2"
